@@ -53,10 +53,20 @@
 
 #### 2.1.4. AWS Elastic Beanstalk
 
+<p align="center" width="100%">
+    <img width="10%" src="./images/0005-awselasticbeanstalk.png">
+</p>
+
+
 + **Elastic Beanstalk :** Dịch vụ giúp việc **quản lý** các tài nguyên AWS liên quan tới cùng 1 ứng dụng dễ dàng hơn.
 
 
 ### 2.2 Nhóm dịch vụ **Container**
+
+<p align="center" width="100%">
+    <img width="10%" src="./images/0006-awscontainer.png">
+</p>
+
 
 #### 2.2.1. Amazon Elastic Container Service (Amazon ECS)
 
