@@ -297,7 +297,7 @@
 
 
 + **AWS Cost & Usage Report** chứa những thông tin cụ thể nhất về **dữ liệu chi phí và mức sử dụng**. 
-+ Nó bao gồm những siêu dữ liệu được bổ sung về ***dịch vụ AWS, giá cả và các phương án trả trước** ( ví dụ: Amazon EC2 Reserved Instances)
++ Nó bao gồm những siêu dữ liệu được bổ sung về **dịch vụ AWS, giá cả và các phương án trả trước** ( ví dụ: Amazon EC2 Reserved Instances)
 
 ### 7.2. AWS Budgets
 
