@@ -478,15 +478,15 @@
 + Tương tác tới tài khoản AWS của bạn thông qua **Managment Console , CLI hay SDK** đều là các lệnh gọi API.
 
 
-## 3. **Câu hỏi FAQ**
+## 10. **Câu hỏi FAQ**
 
 
 + Các bạn đặt câu hỏi tại [AWS Re/Start FAQ](https://docs.google.com/document/d/1bLPB57WPRGkpvGAAUpuV5cWn3DVQJrhpVL7LOWkMHJg/edit?usp=sharing)
 
-## 4. **Tham khảo các câu hỏi thường gặp tại [FAQ](https://docs.google.com/spreadsheets/d/1oEGUUxPOg3webrfOXhpU_n3Qt2VfgOPhi0BdIbkUUOQ/edit?usp=sharing)**
+## 11. **Tham khảo các câu hỏi thường gặp tại [FAQ](https://docs.google.com/spreadsheets/d/1oEGUUxPOg3webrfOXhpU_n3Qt2VfgOPhi0BdIbkUUOQ/edit?usp=sharing)**
  
 + Danh sách FAQ của 39 dịch vụ [AWS](https://docs.google.com/spreadsheets/d/1oEGUUxPOg3webrfOXhpU_n3Qt2VfgOPhi0BdIbkUUOQ/edit?usp=sharing)
 
-## 5. **[Extra mission](https://van-hoang-kha.github.io/FCJ-Special-Force/)**
+## 12. **[Extra mission](https://van-hoang-kha.github.io/FCJ-Special-Force/)**
 
 + Tiếp tục với [FCJ Special Force](https://van-hoang-kha.github.io/FCJ-Special-Force/)
