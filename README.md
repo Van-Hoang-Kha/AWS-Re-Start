@@ -16,14 +16,16 @@
 
 ### 2.1. Nhóm dịch vụ **Compute**
 
-
-
-![AWS Compute](/images/compute.png)
-
+<p align="center" width="100%">
+    <img width="10%" src="./images/compute.png">
+</p>
 
 #### 2.1.1. Amazon Elastic Compute Cloud (Amazon EC2) 
 
-![AWS EC2](/images/0002-ec2.png)
+<p align="center" width="100%">
+    <img width="10%" src="./images/0002-ec2.png">
+</p>
+
 
 + **Amazon EC2** giống với máy chủ ảo hoặc máy chủ vật lý truyền thống. EC2 có **khả năng khởi tạo nhanh , khả năng co dãn tài nguyên mạnh mẽ , linh hoạt**.
 + Máy chủ ảo : chia nhỏ máy chủ  vật lý thành **nhiều máy chủ ảo**, mục đích để **tận dụng tài nguyên tốt hơn**
@@ -31,7 +33,10 @@
 
 #### 2.1.2. Amazon EC2 Auto Scaling
 
-![ Amazon EC2 Auto Scaling](/images/0003-ec2autoscaling.png)
+<p align="center" width="100%">
+    <img width="10%" src="./images/0003-ec2autoscaling.png">
+</p>
+
 
 + **EC2 autoscaling :** Khả năng **tăng giảm** số máy chủ ảo , phụ thuộc vào lượng người dùng sử dụng ứng dụng
 
