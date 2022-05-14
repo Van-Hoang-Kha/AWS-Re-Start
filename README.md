@@ -42,6 +42,11 @@
 
 #### 2.1.3. AWS Lambda
 
+<p align="center" width="100%">
+    <img width="10%" src="./images/0004-awslambda.png">
+</p>
+
+
 + **AWS Lambda :** dịch vụ tính toán **phi máy chủ** ( không có máy chủ ) xử lý công việc theo dạng các task nhỏ. 
 + Thực hiện xong công việc trả kết quả xong sẽ **tắt**.  
 + **Giảm** bớt công sức quản lý máy chủ ảo.
