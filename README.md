@@ -297,7 +297,7 @@
 
 
 + **AWS Cost & Usage Report** chứa những thông tin cụ thể nhất về **dữ liệu chi phí và mức sử dụng**. 
-+ Nó bao gồm những siêu dữ liệu được bổ sung về **dịch vụ AWS, giá cả và các phương án trả trước** ( ví dụ: Amazon EC2 Reserved Instances)
++ Nó bao gồm những siêu dữ liệu được bổ sung về ***dịch vụ AWS, giá cả và các phương án trả trước** ( ví dụ: Amazon EC2 Reserved Instances)
 
 #### 2.6.2. AWS Budgets
 
@@ -483,164 +483,10 @@
 
 ### Các bạn đặt câu hỏi tại [AWS Re/Start FAQ](https://docs.google.com/document/d/1bLPB57WPRGkpvGAAUpuV5cWn3DVQJrhpVL7LOWkMHJg/edit?usp=sharing)
 
+### 4. Tham khảo các câu hỏi thường gặp tại [FAQ](https://docs.google.com/spreadsheets/d/1oEGUUxPOg3webrfOXhpU_n3Qt2VfgOPhi0BdIbkUUOQ/edit?usp=sharing)
+ 
 
-#### 3.1 Amazon Elastic Compute Cloud (Amazon EC2) 
 
-+ Xem các câu hỏi thường gặp về [Amazon Elastic Compute Cloud (Amazon EC2)](https://aws.amazon.com/vi/ec2/faqs/) 
-
-#### 3.2. Amazon EC2 Auto Scaling
-
-+ Xem các câu hỏi thường gặp về [Amazon EC2 Auto Scaling](https://aws.amazon.com/vi/ec2/autoscaling/faqs/)
-
-#### 3.3. AWS Lambda
-
-+ Xem các câu hỏi thường gặp về [AWS Lambda](https://aws.amazon.com/vi/lambda/faqs/)
-
-#### 3.4. AWS Elastic Beanstalk
-
-+ Xem các câu hỏi thường gặp về [AWS Elastic Beanstalk](https://aws.amazon.com/vi/elasticbeanstalk/faqs/)
-
-#### 3.5. Amazon ECS
-
-+ Xem các câu hỏi thường gặp về [Amazon ECS](https://aws.amazon.com/vi/ecs/faqs/)
-
-#### 3.6. Amazon ECR
-
-+ Xem các câu hỏi thường gặp về [Amazon ECR](https://aws.amazon.com/vi/ecr/faqs/)
-
-#### 3.7. Amazon EKS
-
-+ Xem các câu hỏi thường gặp về [Amazon EKS](https://aws.amazon.com/vi/eks/faqs/)
-
-#### 3.8. AWS Fargate
-
-+ Xem các câu hỏi thường gặp về [AWS Fargate](https://www.amazonaws.cn/en/fargate/faqs/)
-
-#### 3.9. Amazon VPC
-
-+ Xem các câu hỏi thường gặp về [Amazon VPC](https://aws.amazon.com/vi/vpc/faqs/)
-
-#### 3.10. Elastic Load Balancing
-
-+ Xem câu hỏi thường gặp về [Elastic Load Balancing](https://aws.amazon.com/vi/elasticloadbalancing/faqs/)
-
-#### 3.11. Amazon CloudFront
-
-+ Xem các câu hỏi thường gặp về [Amazon CloudFront](https://aws.amazon.com/vi/cloudfront/faqs/)
-
-#### 3.12. AWS Transit Gateway
-
-+ Xem các câu hỏi thường gặp về [AWS Transit Gateway](https://aws.amazon.com/vi/transit-gateway/faqs/)
-
-#### 3.13. Amazon Route 53
-
-+ Xem các câu hỏi thường gặp về [Amazon Route 53](https://aws.amazon.com/vi/route53/faqs/)
-
-#### 3.14. AWS Direct Connect
-
-+ Xem các câu hỏi thường gặp về [AWS Direct Connect](https://aws.amazon.com/vi/directconnect/faqs/)
-
-#### 3.15. AWS VPN 
-
-+ Xem các câu hỏi thường gặp về [AWS VPN](https://aws.amazon.com/vi/vpn/faqs/)
-
-#### 3.16. AWS S3
-
-+ Xem các câu hỏi thường về [AWS S3](https://aws.amazon.com/vi/s3/faqs/)
-
-#### 3.17. Amazon EBS
-
-+ Xem các câu hỏi thường gặp về [Amazon EBS](https://aws.amazon.com/vi/ebs/faqs/)
-
-#### 3.18. Amazon EFS
-
-+ Xem các câu hỏi thường gặp về [Amazon EFS](https://aws.amazon.com/vi/ebs/faqs/)
-
-#### 3.19. AWS RDS
-
-+ Xem các câu hỏi thường gặp về [AWS RDS](https://aws.amazon.com/vi/rds/faqs/)
-
-#### 3.20. Amazon Aurora
-
-+ Xem các câu hỏi thường gặp về [Amazon Aurora](https://aws.amazon.com/vi/rds/aurora/faqs/)
-
-#### 3.21. Amazon RedShift
-
-+ Xem các câu hỏi thường gặp về [Amazon RedShift](https://aws.amazon.com/vi/redshift/faqs/)
-
-#### 3.22. Amazon Dynamo
-
-+ Xem các câu hỏi thường gặp về [Amazon Dynamo](https://aws.amazon.com/vi/dynamodb/faqs/)
-
-#### 3.23. AWS Cost and Usage Report
-
-+ Xem các câu hỏi thường gặp về [AWS Cost and Usage Report](https://aws.amazon.com/vi/aws-cost-management/aws-cost-and-usage-reporting/faqs/)
-
-#### 3.24. AWS Budgets
-
-+ Xem các câu hỏi thường gặp về [AWS Budgets](https://aws.amazon.com/vi/aws-cost-management/aws-budgets/faqs/)
-
-#### 3.25. AWS Cost Explorer
-
-+ Xem các câu hỏi thường gặp về [AWS Cost Explorer](https://aws.amazon.com/vi/aws-cost-management/faqs/)
-
-#### 3.26. IAM
-
-+ Xem các câu hỏi thường gặp về [IAM](https://aws.amazon.com/vi/iam/faqs/)
-
-#### 3.27. AWS Organizations
-
-+ Xem các câu hỏi thường gặp về [AWS Organizations](https://aws.amazon.com/vi/organizations/faqs/) 
-
-#### 3.28. Amazon Cognito
-
-+ Xem các câu hỏi thường gặp về [Amazon Cognito](https://aws.amazon.com/vi/cognito/faqs/)   
-
-#### 3.29. AWS Artifact
-
-+ Xem các câu hỏi thường gặp về [AWS Artifact](https://aws.amazon.com/vi/artifact/faq/)    
-
-#### 3.30. AWS KMS
-
-+ Xem các câu hỏi thường gặp về [AWS KMS](https://aws.amazon.com/vi/kms/faqs/)   
-
-#### 3.31. AWS Shield
-
-+ Xem các câu hỏi thường gặp về [AWS Shield](https://aws.amazon.com/vi/shield/faqs/)   
-
-#### 3.32. AWS Management Console
-
-+ Xem các câu hỏi thường gặp về [AWS Management Console](https://aws.amazon.com/vi/console/faq-console/)    
-
-#### 3.33. AWS Config
-
-+ Xem các câu hỏi thường gặp về [AWS Config ](https://aws.amazon.com/vi/config/faq/)     
-
-#### 3.34. AWS CloudWatch
-
-+ Xem các câu hỏi thường gặp về [AWS CloudWatch](https://aws.amazon.com/vi/cloudwatch/faqs/)    
-
-#### 3.35. AWS Auto Scaling
-
-+ Xem các câu hỏi thường gặp về [AWS Auto Scaling](https://aws.amazon.com/vi/autoscaling/faqs/)   
-
-#### 3.36. AWS CLI
-
-+ Xem các câu hỏi thường gặp về [AWS CLI](https://aws.amazon.com/vi/cli/)    
-
-#### 3.37. AWS Trusted Advisor
-
-+ Xem các câu hỏi thường gặp về [AWS Trusted Advisor](https://www.amazonaws.cn/en/support/trustedadvisor/faq/)    
-
-#### 3.38. AWS Well-Architected Tool
-
-+ Xem các câu hỏi thường gặp về [AWS Well-Architected Tool](https://aws.amazon.com/vi/well-architected-tool/faqs/)   
-
-#### 3.39. AWS CloudTrail
-
-+ Xem các câu hỏi thường gặp về [ AWS CloudTrail](https://aws.amazon.com/vi/cloudtrail/faqs/)   
-
-
-### 4. **[Extra mission](https://van-hoang-kha.github.io/FCJ-Special-Force/)**
+### 5. **[Extra mission](https://van-hoang-kha.github.io/FCJ-Special-Force/)**
 
 
