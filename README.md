@@ -485,6 +485,6 @@
  
 + Danh sách FAQ của 39 dịch vụ [AWS](https://docs.google.com/spreadsheets/d/1oEGUUxPOg3webrfOXhpU_n3Qt2VfgOPhi0BdIbkUUOQ/edit?usp=sharing)
 
-## 12. **[Extra mission](https://van-hoang-kha.github.io/FCJ-Special-Force/)**
+## 12. **Extra mission**
 
 + Tiếp tục với [FCJ Special Force](https://van-hoang-kha.github.io/FCJ-Special-Force/)
