@@ -1,5 +1,3 @@
-# AWS Re/Start
-
 ![AWS Restart](/images/0001.png)
 
 ## 1. **Tài liệu**
